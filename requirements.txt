@@ -1,0 +1,7 @@
+pandas
+plotly
+psycopg2
+dotenv
+yfinance
+requests
+streamlit
